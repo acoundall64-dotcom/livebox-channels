@@ -1,0 +1,9 @@
+[
+  {"id":1,"name":"Nagorik TV","category":"BANGLADESH","logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kb5MBvGaZ-CVtpYi2vM2Zy0LERvZSRlKNgyT1Zl3zw&s","streams":[{"url":"http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8"}]},
+  {"id":2,"name":"BTV","category":"BANGLADESH","logo_url":"https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp","streams":[{"url":"http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8"}]},
+  {"id":3,"name":"Somoy Tv","category":"BANGLADESH","logo_url":"https://i.ibb.co.com/JDkcwPP/Picsart-24-10-22-13-58-43-282.webp","streams":[{"url":"https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8"}]},
+  {"id":4,"name":"Channel 24","category":"BANGLADESH","logo_url":"https://i.postimg.cc/0ys4hMyd/20240822-230446.png","streams":[{"url":"https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8"}]},
+  {"id":5,"name":"Zee Bangla HD","category":"Entertainment","logo_url":"https://i.ibb.co.com/23dGnxBn/Picsart-24-10-18-15-06-46-163.webp","streams":[{"url":"https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8"}]},
+  {"id":6,"name":"Star Jalsha HD","category":"Entertainment","logo_url":"https://i.ibb.co.com/7dcZDC3q/Picsart-24-10-18-15-09-05-722.webp","streams":[{"url":"https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8"}]},
+  {"id":7,"name":"Sony Max","category":"Movies","logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b2084eDCqL4ALdFimwE5MSO81HUYv36FVr6ejTbmPw&s=10","streams":[{"url":"https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8"}]}
+]
